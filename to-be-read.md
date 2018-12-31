@@ -4,4 +4,7 @@
 * Track changes: a literary history of word processing / Matthew Kirchenbaum
 * The Stack / Benjamin Bratton
 * Counterproductive / Melissa Gregg
-* Digital Geographies / Ash, Kitchin & Leszczynski (ed)
+* Digital Geographies / Ash, Kitchin & Leszczynski (eds)
+* Generous Thinking: The University and the Public Good / Kathleen Fitzpatrick
+* [The sunsetting book](https://ronallo.com/sunsetting-book/) / Jason Ronallo
+* [What if we could re-imagine copyright?](http://press-files.anu.edu.au/downloads/press/n2190/pdf/book.pdf) / Giblin & Weatherall (eds)
