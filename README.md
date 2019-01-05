@@ -10,4 +10,4 @@ Either log a pull request to update `to-be-read.md` or create an issue.
 
 # To offer to lend me something
 
-Create an issue.
+Create an issue or just send me an email.
