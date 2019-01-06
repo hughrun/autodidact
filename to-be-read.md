@@ -10,3 +10,4 @@
 * [What if we could re-imagine copyright?](http://press-files.anu.edu.au/downloads/press/n2190/pdf/book.pdf) / Giblin & Weatherall (eds)
 * Revolting prostitutes: the fight for sex workers' rights / Juno Mac & Molly Smith
 * A field guide to getting lost / Rebecca Solnit
+* The art of not being governed: an anarchist history of Upland Southeast Asia / James C Scott
