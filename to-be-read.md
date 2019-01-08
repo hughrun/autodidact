@@ -11,3 +11,8 @@
 * Revolting prostitutes: the fight for sex workers' rights / Juno Mac & Molly Smith
 * A field guide to getting lost / Rebecca Solnit
 * The art of not being governed: an anarchist history of Upland Southeast Asia / James C Scott
+* Rules for radicals / Saul Alinsky (available on archive.org)
+* The promise of infrastructure / Anand et al
+* Trigger warnings / Jeff Sparrow
+* General intellects: Twenty-one thinkers for the twenty-first century / McKenzie Wark
+* A networked self and human augmentics, artificial intelligence, sentience / Zizi Papacharissi
