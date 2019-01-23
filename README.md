@@ -6,8 +6,8 @@ I'll probably connect this to my [marginalia series](https://www.hughrundle.net/
 
 # To suggest a book to read
 
-Either log a pull request to update `to-be-read.md` or create an issue.
+Either log a pull request to update `to-be-read.md`, or create an issue, or email/toot/tweet at me.
 
 # To offer to lend me something
 
-Create an issue or just send me an email.
+Create an issue or just send me an email/toot/tweet.
