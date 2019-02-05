@@ -19,3 +19,4 @@
 * [The age of surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/): The fight for a human future at the new frontier of power  / Shoshana Zuboff
 * The Vandemonian War / Nick Brodie
 * The revolution of everyday life / Raoul Vaneigem
+* Empire of guns: the violent making fo the Industrial Revolution / Priya Satia
