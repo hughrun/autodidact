@@ -20,3 +20,4 @@
 * The Vandemonian War / Nick Brodie
 * The revolution of everyday life / Raoul Vaneigem
 * Empire of guns: the violent making fo the Industrial Revolution / Priya Satia
+* The politics of borders: Sovereignty, security and the citizen after 9/11 / Matthew Longo 
