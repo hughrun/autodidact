@@ -22,3 +22,4 @@
 * Empire of guns: the violent making fo the Industrial Revolution / Priya Satia
 * Questioning collapse: Human resilience, ecological vulnerability, and the aftermath of empire / McAnamy & Yoffee (eds)
 * The politics of borders: Sovereignty, security and the citizen after 9/11 / Matthew Longo
+* Radical happiness: moments of collective joy / Lynne Segal
