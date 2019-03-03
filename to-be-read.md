@@ -24,3 +24,4 @@
 * The politics of borders: Sovereignty, security and the citizen after 9/11 / Matthew Longo
 * Radical happiness: moments of collective joy / Lynne Segal
 * Anxieties of belonging in settler colonialism : Australia, race and place / Lisa Slater
+* The problem with work: Feminism, Marxism, antiwork politics, and postwork imaginaries / Kathi Weeks
