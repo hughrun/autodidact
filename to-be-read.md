@@ -25,3 +25,4 @@
 * Radical happiness: moments of collective joy / Lynne Segal
 * Anxieties of belonging in settler colonialism : Australia, race and place / Lisa Slater
 * The problem with work: Feminism, Marxism, antiwork politics, and postwork imaginaries / Kathi Weeks
+* After the map / William Rankin
