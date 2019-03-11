@@ -27,3 +27,4 @@
 * The problem with work: Feminism, Marxism, antiwork politics, and postwork imaginaries / Kathi Weeks
 * After the map / William Rankin
 * Writings on Cities / Henri Lefebvre
+* Pedagogy of the Oppressed / Paolo Freire
