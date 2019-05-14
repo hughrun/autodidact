@@ -3,4 +3,6 @@
 * Bullshit Jobs: a theory / David Graeber
 * Deep Time Dreaming / Billy Griffiths
 * Dark emu / Bruce Pascoe
+* A field guide to getting lost / Rebecca Solnit
+* Call them by their true names / Rebecca Solnit
 * 1787: The lost chapters of Australia's beginnings / Nick Brodie
