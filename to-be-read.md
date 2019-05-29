@@ -27,3 +27,5 @@
 * After the map / William Rankin
 * Writings on Cities / Henri Lefebvre
 * Pedagogy of the Oppressed / Paolo Freire
+* Chasing the sun / Linda Geddes
+* Future histories: What Ada Lovelace, Tom Paine, and the Paris Commune Teach Us about Digital Technology / Lizzie O'Shea
