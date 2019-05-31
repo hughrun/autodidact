@@ -7,6 +7,7 @@
 * Call them by their true names / Rebecca Solnit
 * 1787: The lost chapters of Australia's beginnings / Nick Brodie
 * The Communist Manifesto: with an introduction by Gareth Stedman Jones / Karl Marx & Friedrich Engels
+* Work: the last 1,000 years / Andrea Komlosy
 
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
