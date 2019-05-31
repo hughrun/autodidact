@@ -29,3 +29,7 @@
 * Pedagogy of the Oppressed / Paolo Freire
 * Chasing the sun / Linda Geddes
 * Future histories: What Ada Lovelace, Tom Paine, and the Paris Commune Teach Us about Digital Technology / Lizzie O'Shea
+* No place to go: how public toilets fail our private needs / Lezlie Lowe
+* Terra Nullius / Claire G Coleman
+* Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
+* Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
