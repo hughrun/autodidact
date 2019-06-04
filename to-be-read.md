@@ -12,7 +12,6 @@
 * The art of not being governed: an anarchist history of Upland Southeast Asia / James C Scott
 * Rules for radicals / Saul Alinsky (available on archive.org)
 * The promise of infrastructure / Anand et al
-* Trigger warnings / Jeff Sparrow ✅
 * General intellects: Twenty-one thinkers for the twenty-first century / McKenzie Wark
 * A networked self and human augmentics, artificial intelligence, sentience / Zizi Papacharissi
 * [The age of surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/): The fight for a human future at the new frontier of power  / Shoshana Zuboff
