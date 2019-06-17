@@ -9,5 +9,6 @@
 * The Communist Manifesto: with an introduction by Gareth Stedman Jones / Karl Marx & Friedrich Engels
 * Work: the last 1,000 years / Andrea Komlosy
 * Trigger warnings: political correctness and the rise of the right / Jeff Sparrow
+* No such thing as a free gift: The Gates Foundation and the price of philanthropy / Linsey McGoey
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
