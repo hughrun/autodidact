@@ -32,3 +32,5 @@
 * Terra Nullius / Claire G Coleman
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
 * Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
+* Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright
+* Rated Agency: Investee politics in a speculative age / Michel Feher & Gregory Elliot
