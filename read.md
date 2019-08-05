@@ -11,6 +11,7 @@
 * Trigger warnings: political correctness and the rise of the right / Jeff Sparrow
 * No such thing as a free gift: The Gates Foundation and the price of philanthropy / Linsey McGoey
 * Against the grain: A deep history of the earliest states / James C Scott
+* Psychogeography / Merlin Coverley
 
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
