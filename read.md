@@ -1,3 +1,5 @@
+# 2019
+
 * Assembly / Michael Hardt & Antonio Negri
 * Civil wars: a history in ideas / David Armitage
 * Bullshit Jobs: a theory / David Graeber
@@ -12,6 +14,7 @@
 * No such thing as a free gift: The Gates Foundation and the price of philanthropy / Linsey McGoey
 * Against the grain: A deep history of the earliest states / James C Scott
 * Psychogeography / Merlin Coverley
+* Wikipedia and the politics of openness / Nathaniel Tkacz
 
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
