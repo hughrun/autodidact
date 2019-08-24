@@ -15,6 +15,7 @@
 * Against the grain: A deep history of the earliest states / James C Scott
 * Psychogeography / Merlin Coverley
 * Wikipedia and the politics of openness / Nathaniel Tkacz
+* Made by humans / Ellen Broad
 
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
