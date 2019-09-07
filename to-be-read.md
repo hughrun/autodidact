@@ -2,10 +2,10 @@
 
 * Information Feudalism: Who Owns the Knowledge Economy? / Peter Drahos & John Braithwaite
 * Track changes: a literary history of word processing / Matthew Kirchenbaum ✅
-* The Stack / Benjamin Bratton
+* The Stack / Benjamin Bratton ✅
 * Counterproductive / Melissa Gregg
 * Digital Geographies / Ash, Kitchin & Leszczynski (eds)
-* Generous Thinking: The University and the Public Good / Kathleen Fitzpatrick
+* Generous Thinking: The University and the Public Good / Kathleen Fitzpatrick ✅
 * [The sunsetting book](https://ronallo.com/sunsetting-book/) / Jason Ronallo
 * [What if we could re-imagine copyright?](http://press-files.anu.edu.au/downloads/press/n2190/pdf/book.pdf) / Giblin & Weatherall (eds)
 * Revolting prostitutes: the fight for sex workers' rights / Juno Mac & Molly Smith ✅
@@ -27,7 +27,7 @@
 * Writings on Cities / Henri Lefebvre
 * Pedagogy of the Oppressed / Paolo Freire
 * Chasing the sun / Linda Geddes
-* Future histories: What Ada Lovelace, Tom Paine, and the Paris Commune Teach Us about Digital Technology / Lizzie O'Shea
+* Future histories: What Ada Lovelace, Tom Paine, and the Paris Commune Teach Us about Digital Technology / Lizzie O'Shea ✅
 * No place to go: how public toilets fail our private needs / Lezlie Lowe
 * Terra Nullius / Claire G Coleman
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
