@@ -19,6 +19,7 @@
 * How we learn / Benedict Carey
 * Algorithms of oppression / Safiya Noble
 * Empire of cotton: a new history of global capitalism / Sven Beckert
+* The traitor Baru Cormorant / Seth Dickinson (fiction)
 
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
