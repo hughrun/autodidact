@@ -21,6 +21,7 @@
 * Empire of cotton: a new history of global capitalism / Sven Beckert
 * The traitor Baru Cormorant / Seth Dickinson (fiction)
 * 1835: the founding of Melbourne and the conquest of Australia / James Boyce
+* Convenience store woman / Sayaka Murata (fiction)
 
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
