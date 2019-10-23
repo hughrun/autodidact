@@ -5,7 +5,7 @@
 * Digital Geographies / Ash, Kitchin & Leszczynski (eds)
 * [The sunsetting book](https://ronallo.com/sunsetting-book/) / Jason Ronallo
 * [What if we could re-imagine copyright?](http://press-files.anu.edu.au/downloads/press/n2190/pdf/book.pdf) / Giblin & Weatherall (eds)
-* The art of not being governed: an anarchist history of Upland Southeast Asia / James C Scott
+* The art of not being governed: an anarchist history of Upland Southeast Asia / James C Scott ✅
 * Rules for radicals / Saul Alinsky (available on archive.org)
 * The promise of infrastructure / Anand et al
 * General intellects: Twenty-one thinkers for the twenty-first century / McKenzie Wark
