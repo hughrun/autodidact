@@ -35,4 +35,5 @@
 * Track changes: a literary history of word processing / Matthew Kirchenbaum ✅
 * The Stack / Benjamin Bratton ✅
 * Rebooting AI / Gary Marcus & Ernest Davis
-* Philospy an real politics / Raymond Guess
+* Philosophy and real politics / Raymond Guess
+* Comrade: an essay on political belonging / Jodi Dean

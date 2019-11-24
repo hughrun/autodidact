@@ -25,6 +25,7 @@
 * Masked by trust: bias in library discovery / Matthew Reidsma
 * Going offline / Jeremy Keith
 * Being numerous: essays on non-Fascist life / Natasha Lennard
+* Twitter and tear gas: the power and fragility of networked protest / Zeynep Tufekci
 
 ---
 Note: I probably wouldn't have bothered listing _The Communist Manifesto_, which is only 40 pages, but the "Introduction" is 200 pages long and quite interesting.
