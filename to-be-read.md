@@ -37,3 +37,4 @@
 * Rebooting AI / Gary Marcus & Ernest Davis
 * Philosophy and real politics / Raymond Guess
 * Comrade: an essay on political belonging / Jodi Dean
+* [Better work together](https://www.betterworktogether.co/buythebook) / Susan Basterfield & Anthony Cabraal
