@@ -40,3 +40,4 @@
 * [Better work together](https://www.betterworktogether.co/buythebook) / Susan Basterfield & Anthony Cabraal
 * The plague / Albert Camus
 * How to do nothing: resisting the attention economy / Jenny Odell
+* Hacking diversity / Christina Dunbar-Hester
