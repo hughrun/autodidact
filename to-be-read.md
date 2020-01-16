@@ -41,3 +41,4 @@
 * The plague / Albert Camus
 * How to do nothing: resisting the attention economy / Jenny Odell
 * Hacking diversity / Christina Dunbar-Hester
+* Human operators: a critical oral history on technology in libraries and archives / Melissa Morrone (ed)
