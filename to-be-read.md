@@ -10,7 +10,7 @@
 * The promise of infrastructure / Anand et al
 * General intellects: Twenty-one thinkers for the twenty-first century / McKenzie Wark
 * A networked self and human augmentics, artificial intelligence, sentience / Zizi Papacharissi
-* [The age of surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/): The fight for a human future at the new frontier of power  / Shoshana Zuboff
+* [The age of surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/): The fight for a human future at the new frontier of power  / Shoshana Zuboff ✅
 * The Vandemonian War / Nick Brodie
 * The revolution of everyday life / Raoul Vaneigem
 * Empire of guns: the violent making fo the Industrial Revolution / Priya Satia
@@ -42,3 +42,4 @@
 * How to do nothing: resisting the attention economy / Jenny Odell
 * Hacking diversity / Christina Dunbar-Hester
 * Human operators: a critical oral history on technology in libraries and archives / Melissa Morrone (ed)
+* Capitalism and desire / Todd McGowan
