@@ -44,3 +44,5 @@
 * Human operators: a critical oral history on technology in libraries and archives / Melissa Morrone (ed)
 * Capitalism and desire / Todd McGowan
 * Artifical Intelligence: A guide for thinking humans / Melanie Mitchell
+* Crowds and party / Jodi Dean
+* Trick mirror: reflections on self-delusion / Jia Tolentino
