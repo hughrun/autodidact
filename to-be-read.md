@@ -46,3 +46,4 @@
 * Artifical Intelligence: A guide for thinking humans / Melanie Mitchell
 * Crowds and party / Jodi Dean
 * Trick mirror: reflections on self-delusion / Jia Tolentino
+* Fictions of sustainability: the politics of growth and post-capitalist futures / Boris Frankel
