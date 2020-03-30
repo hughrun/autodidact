@@ -47,3 +47,4 @@
 * Crowds and party / Jodi Dean
 * Trick mirror: reflections on self-delusion / Jia Tolentino
 * Fictions of sustainability: the politics of growth and post-capitalist futures / Boris Frankel
+* Confronting the democratic discourse of librarianship / Sam Popowich
