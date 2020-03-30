@@ -49,3 +49,4 @@
 * Fictions of sustainability: the politics of growth and post-capitalist futures / Boris Frankel
 * Confronting the democratic discourse of librarianship / Sam Popowich
 * The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell
+* Better work together / Enspiral
