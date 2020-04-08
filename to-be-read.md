@@ -29,7 +29,6 @@
 * Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
 * Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright
 * Rated Agency: Investee politics in a speculative age / Michel Feher & Gregory Elliot
-* Future histories: What Ada Lovelace, Tom Paine, and the Paris Commune Teach Us about Digital Technology / Lizzie O'Shea ✅
 * Revolting prostitutes: the fight for sex workers' rights / Juno Mac & Molly Smith ✅
 * Generous Thinking: The University and the Public Good / Kathleen Fitzpatrick ✅
 * Track changes: a literary history of word processing / Matthew Kirchenbaum ✅
