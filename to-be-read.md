@@ -50,3 +50,4 @@
 * The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell
 * Better work together / Enspiral
 * Capitalist Realism: Is there no alternative? / Mark Fisher
+* A paradise built in hell / Rebecca Solnit
