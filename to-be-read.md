@@ -4,13 +4,10 @@
 * Counterproductive / Melissa Gregg
 * Digital Geographies / Ash, Kitchin & Leszczynski (eds)
 * [The sunsetting book](https://ronallo.com/sunsetting-book/) / Jason Ronallo
-* [What if we could re-imagine copyright?](http://press-files.anu.edu.au/downloads/press/n2190/pdf/book.pdf) / Giblin & Weatherall (eds)
-* The art of not being governed: an anarchist history of Upland Southeast Asia / James C Scott ✅
 * Rules for radicals / Saul Alinsky (available on archive.org)
 * The promise of infrastructure / Anand et al
 * General intellects: Twenty-one thinkers for the twenty-first century / McKenzie Wark
 * A networked self and human augmentics, artificial intelligence, sentience / Zizi Papacharissi
-* [The age of surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/): The fight for a human future at the new frontier of power  / Shoshana Zuboff ✅
 * The Vandemonian War / Nick Brodie
 * The revolution of everyday life / Raoul Vaneigem
 * Empire of guns: the violent making fo the Industrial Revolution / Priya Satia
@@ -29,10 +26,6 @@
 * Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
 * Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright
 * Rated Agency: Investee politics in a speculative age / Michel Feher & Gregory Elliot
-* Revolting prostitutes: the fight for sex workers' rights / Juno Mac & Molly Smith ✅
-* Generous Thinking: The University and the Public Good / Kathleen Fitzpatrick ✅
-* Track changes: a literary history of word processing / Matthew Kirchenbaum ✅
-* The Stack / Benjamin Bratton ✅
 * Rebooting AI / Gary Marcus & Ernest Davis
 * Philosophy and real politics / Raymond Guess
 * Comrade: an essay on political belonging / Jodi Dean
