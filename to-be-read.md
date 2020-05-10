@@ -44,3 +44,4 @@
 * Better work together / Enspiral
 * Capitalist Realism: Is there no alternative? / Mark Fisher
 * A paradise built in hell / Rebecca Solnit
+* Against Purity: Living Ethically in Compromised Times / Alexis Shotwell 
