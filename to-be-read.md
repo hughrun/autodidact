@@ -46,3 +46,4 @@
 * A paradise built in hell / Rebecca Solnit
 * Against Purity: Living Ethically in Compromised Times / Alexis Shotwell 
 * The Biggest Estate on Earth / Bill Gammage
+* [Coding Literacy](https://mitpress.mit.edu/books/coding-literacy) : how computer programming is changing writing / Annette Vee
