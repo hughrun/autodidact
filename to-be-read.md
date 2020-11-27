@@ -24,7 +24,7 @@
 * Terra Nullius / Claire G Coleman
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
 * Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
-* Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright
+* Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright ✅
 * Rated Agency: Investee politics in a speculative age / Michel Feher & Gregory Elliot
 * Rebooting AI / Gary Marcus & Ernest Davis
 * Philosophy and real politics / Raymond Guess
@@ -40,7 +40,7 @@
 * Trick mirror: reflections on self-delusion / Jia Tolentino
 * Fictions of sustainability: the politics of growth and post-capitalist futures / Boris Frankel
 * Confronting the democratic discourse of librarianship / Sam Popowich
-* The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell
+* The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell ✅
 * Better work together / Enspiral
 * Capitalist Realism: Is there no alternative? / Mark Fisher
 * A paradise built in hell / Rebecca Solnit
@@ -50,3 +50,4 @@
 * Being ecological / Timothy Morton
 * Dark ecology / Timothy Morton
 * Play anything / Ian Bogost
+* City of Trees / Sophie Cunningham
