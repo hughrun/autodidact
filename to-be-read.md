@@ -21,7 +21,7 @@
 * Pedagogy of the Oppressed / Paolo Freire
 * Chasing the sun / Linda Geddes
 * No place to go: how public toilets fail our private needs / Lezlie Lowe
-* Terra Nullius / Claire G Coleman
+* Terra Nullius / Claire G Coleman ✅
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
 * Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
 * Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright ✅
@@ -48,7 +48,8 @@
 * The Biggest Estate on Earth / Bill Gammage
 * [Coding Literacy](https://mitpress.mit.edu/books/coding-literacy) : how computer programming is changing writing / Annette Vee
 * Being ecological / Timothy Morton
-* Dark ecology / Timothy Morton
+* Dark ecology / Timothy Morton ✅
 * Play anything / Ian Bogost
-* City of Trees / Sophie Cunningham
+* City of Trees / Sophie Cunningham ✅
 * More work for mother / Ruth Cowan
+* Sorting things out: classification and its consequences / Bowker & Star
