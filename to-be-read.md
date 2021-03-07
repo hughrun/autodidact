@@ -55,3 +55,4 @@
 * Sorting things out: classification and its consequences / Bowker & Star
 * What's the use? / Sara Ahmed
 * Texture: human expression in the age of information overload / RHR Harper
+* Work: a history of how we spend our time / James Suzman
