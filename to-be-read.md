@@ -10,11 +10,10 @@
 * A networked self and human augmentics, artificial intelligence, sentience / Zizi Papacharissi
 * The Vandemonian War / Nick Brodie
 * The revolution of everyday life / Raoul Vaneigem
-* Empire of guns: the violent making fo the Industrial Revolution / Priya Satia
+* Empire of guns: the violent making of the Industrial Revolution / Priya Satia
 * Questioning collapse: Human resilience, ecological vulnerability, and the aftermath of empire / McAnamy & Yoffee (eds)
 * The politics of borders: Sovereignty, security and the citizen after 9/11 / Matthew Longo
 * Radical happiness: moments of collective joy / Lynne Segal
-* Anxieties of belonging in settler colonialism : Australia, race and place / Lisa Slater
 * The problem with work: Feminism, Marxism, antiwork politics, and postwork imaginaries / Kathi Weeks
 * After the map / William Rankin
 * Writings on Cities / Henri Lefebvre
@@ -25,7 +24,6 @@
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
 * Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
 * Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright ✅
-* Rated Agency: Investee politics in a speculative age / Michel Feher & Gregory Elliot
 * Rebooting AI / Gary Marcus & Ernest Davis
 * Philosophy and real politics / Raymond Guess
 * Comrade: an essay on political belonging / Jodi Dean
