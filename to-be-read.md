@@ -56,3 +56,6 @@
 * What's the use? / Sara Ahmed
 * Texture: human expression in the age of information overload / RHR Harper
 * Work: a history of how we spend our time / James Suzman
+* Revenge Capiitalism: the ghosts of empire, the demons of capital and the settling of unpayable debts / Max Haiven
+* Breaking things at work: the Luddites were right about why you hate your job / Gavin Mueller
+* The care manifesto: the politics of interdependence / The Care Collective
