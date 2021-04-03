@@ -23,7 +23,6 @@
 * Terra Nullius / Claire G Coleman ✅
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
 * Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
-* Climate Leviathan: a political theory of our planetary future / Geoff Mann & Joel Wainwright ✅
 * Rebooting AI / Gary Marcus & Ernest Davis
 * Philosophy and real politics / Raymond Guess
 * Comrade: an essay on political belonging / Jodi Dean
