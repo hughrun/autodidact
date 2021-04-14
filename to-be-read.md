@@ -45,7 +45,6 @@
 * The Biggest Estate on Earth / Bill Gammage ✅
 * [Coding Literacy](https://mitpress.mit.edu/books/coding-literacy) : how computer programming is changing writing / Annette Vee
 * Being ecological / Timothy Morton
-* Dark ecology / Timothy Morton ✅
 * Play anything / Ian Bogost
 * City of Trees / Sophie Cunningham ✅
 * More work for mother / Ruth Cowan
