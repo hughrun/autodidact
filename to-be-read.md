@@ -55,3 +55,4 @@
 * Revenge Capiitalism: the ghosts of empire, the demons of capital and the settling of unpayable debts / Max Haiven
 * Breaking things at work: the Luddites were right about why you hate your job / Gavin Mueller
 * The care manifesto: the politics of interdependence / The Care Collective
+* There Is No Unhappy Revolution: The Communism of Destitution / Marcello Tari, Richard Braude
