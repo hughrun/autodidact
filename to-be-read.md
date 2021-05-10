@@ -1,9 +1,10 @@
 # books to buy/read
 
+* [The sunsetting book](https://ronallo.com/sunsetting-book/) / Jason Ronallo
+* [Better work together](https://www.betterworktogether.co/buythebook) / Susan Basterfield & Anthony Cabraal (Enspiral)
 * Information Feudalism: Who Owns the Knowledge Economy? / Peter Drahos & John Braithwaite
 * Counterproductive / Melissa Gregg
 * Digital Geographies / Ash, Kitchin & Leszczynski (eds)
-* [The sunsetting book](https://ronallo.com/sunsetting-book/) / Jason Ronallo
 * Rules for radicals / Saul Alinsky (available on archive.org)
 * The promise of infrastructure / Anand et al
 * General intellects: Twenty-one thinkers for the twenty-first century / McKenzie Wark
@@ -20,13 +21,9 @@
 * Pedagogy of the Oppressed / Paolo Freire
 * Chasing the sun / Linda Geddes
 * No place to go: how public toilets fail our private needs / Lezlie Lowe
-* Terra Nullius / Claire G Coleman ✅
-* Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery
-* Unsettling the commons: social movements within, against, and beyond Settler Colonialism / Craig Fortier
 * Rebooting AI / Gary Marcus & Ernest Davis
 * Philosophy and real politics / Raymond Guess
 * Comrade: an essay on political belonging / Jodi Dean
-* [Better work together](https://www.betterworktogether.co/buythebook) / Susan Basterfield & Anthony Cabraal
 * The plague / Albert Camus
 * How to do nothing: resisting the attention economy / Jenny Odell
 * Hacking diversity / Christina Dunbar-Hester
@@ -37,18 +34,13 @@
 * Trick mirror: reflections on self-delusion / Jia Tolentino
 * Fictions of sustainability: the politics of growth and post-capitalist futures / Boris Frankel
 * Confronting the democratic discourse of librarianship / Sam Popowich
-* The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell ✅
-* Better work together / Enspiral
 * Capitalist Realism: Is there no alternative? / Mark Fisher
-* A paradise built in hell / Rebecca Solnit
 * Against Purity: Living Ethically in Compromised Times / Alexis Shotwell 
-* The Biggest Estate on Earth / Bill Gammage ✅
 * [Coding Literacy](https://mitpress.mit.edu/books/coding-literacy) : how computer programming is changing writing / Annette Vee
 * Being ecological / Timothy Morton
 * Play anything / Ian Bogost
-* City of Trees / Sophie Cunningham ✅
 * More work for mother / Ruth Cowan
-* Sorting things out: classification and its consequences / Bowker & Star
+* Sorting things out: classification and its consequences / Bowker & Star 📚
 * What's the use? / Sara Ahmed
 * Texture: human expression in the age of information overload / RHR Harper
 * Work: a history of how we spend our time / James Suzman
@@ -56,3 +48,9 @@
 * Breaking things at work: the Luddites were right about why you hate your job / Gavin Mueller
 * The care manifesto: the politics of interdependence / The Care Collective
 * There Is No Unhappy Revolution: The Communism of Destitution / Marcello Tari, Richard Braude
+* City of Trees / Sophie Cunningham ✅
+* The Biggest Estate on Earth / Bill Gammage ✅
+* The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell ✅
+* Terra Nullius / Claire G Coleman ✅
+* Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery 📦
+* A paradise built in hell / Rebecca Solnit 📦
