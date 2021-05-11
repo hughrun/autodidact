@@ -46,7 +46,7 @@
 * Work: a history of how we spend our time / James Suzman
 * Revenge Capiitalism: the ghosts of empire, the demons of capital and the settling of unpayable debts / Max Haiven
 * Breaking things at work: the Luddites were right about why you hate your job / Gavin Mueller
-* The care manifesto: the politics of interdependence / The Care Collective
+* The care manifesto: the politics of interdependence / The Care Collective 📦
 * There Is No Unhappy Revolution: The Communism of Destitution / Marcello Tari, Richard Braude
 * City of Trees / Sophie Cunningham ✅
 * The Biggest Estate on Earth / Bill Gammage ✅
