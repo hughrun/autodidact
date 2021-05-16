@@ -47,7 +47,7 @@
 * Revenge Capiitalism: the ghosts of empire, the demons of capital and the settling of unpayable debts / Max Haiven
 * Breaking things at work: the Luddites were right about why you hate your job / Gavin Mueller
 * The care manifesto: the politics of interdependence / The Care Collective ✅
-* There Is No Unhappy Revolution: The Communism of Destitution / Marcello Tari, Richard Braude
+* Spirals of revolution: study and struggle to abolish the present / Geo Maher
 * City of Trees / Sophie Cunningham ✅
 * The Biggest Estate on Earth / Bill Gammage ✅
 * The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell ✅
