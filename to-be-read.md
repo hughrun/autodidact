@@ -24,9 +24,7 @@
 * Rebooting AI / Gary Marcus & Ernest Davis
 * Philosophy and real politics / Raymond Guess
 * Comrade: an essay on political belonging / Jodi Dean
-* The plague / Albert Camus
 * How to do nothing: resisting the attention economy / Jenny Odell
-* Hacking diversity / Christina Dunbar-Hester
 * Human operators: a critical oral history on technology in libraries and archives / Melissa Morrone (ed)
 * Capitalism and desire / Todd McGowan
 * Artifical Intelligence: A guide for thinking humans / Melanie Mitchell
@@ -37,20 +35,17 @@
 * Capitalist Realism: Is there no alternative? / Mark Fisher
 * Against Purity: Living Ethically in Compromised Times / Alexis Shotwell 
 * [Coding Literacy](https://mitpress.mit.edu/books/coding-literacy) : how computer programming is changing writing / Annette Vee
-* Being ecological / Timothy Morton
 * Play anything / Ian Bogost
 * More work for mother / Ruth Cowan
 * Sorting things out: classification and its consequences / Bowker & Star 📚
 * What's the use? / Sara Ahmed
 * Texture: human expression in the age of information overload / RHR Harper
 * Work: a history of how we spend our time / James Suzman
-* Revenge Capiitalism: the ghosts of empire, the demons of capital and the settling of unpayable debts / Max Haiven
+* Revenge Capitalism: the ghosts of empire, the demons of capital and the settling of unpayable debts / Max Haiven
 * Breaking things at work: the Luddites were right about why you hate your job / Gavin Mueller
-* The care manifesto: the politics of interdependence / The Care Collective ✅
 * Spirals of revolution: study and struggle to abolish the present / Geo Maher
 * City of Trees / Sophie Cunningham ✅
 * The Biggest Estate on Earth / Bill Gammage ✅
-* The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm / Lewis Dartnell ✅
 * Terra Nullius / Claire G Coleman ✅
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery ✅
 * A paradise built in hell / Rebecca Solnit ✅
