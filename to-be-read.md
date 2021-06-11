@@ -49,3 +49,4 @@
 * Terra Nullius / Claire G Coleman ✅
 * Joyful militancy: building thriving resistance in toxic times / Bergman & Montgomery ✅
 * A paradise built in hell / Rebecca Solnit ✅
+* The dawn of everything: A new history of humanity / David Graeber (Oct 2021)
