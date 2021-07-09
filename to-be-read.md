@@ -52,3 +52,4 @@
 * The dawn of everything: A new history of humanity / David Graeber (Oct 2021)
 * Tools for Conviviality / Ivan Ilich
 * Your computer is on fire / Mullaney, Peters, Hicks, Philip (eds)
+* The wretched of the earth / Frantz Fanon
